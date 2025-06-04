@@ -1,23 +1,23 @@
 criaCartao(
     'Felicidades',
-    'O que precisa para ser feliz?',
-    ' Fazer o que gosta!!!'
+    'O que voê mais gosta de fazer?',
+    ' jogar futsal!!!'
 )
 
 criaCartao(
-    'Informática',
-    'Qual o melhor canal para aprender informática',
-    '@rasinformática'
+    'Informação',
+    'Qual posição você mais gosta de jogar futsal',
+    'fixo, ala'
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    'Realidade',
+    'qual é o melhor time de futsal do nucleo de ivaiporã?',
+    'Colégio rio branco'
 )
 
 criaCartao(
-    'Ganhando o Mundo',
-    'Quem participou do Programa Ganhado o mundo em 2024?',
-    'Eloisa Amorim dos Santos 👏👏👏'
+    'jogos escolares futsal 2k25',
+    'Qual foi o time que ganhou os jogos escolares 2k25?',
+    'Colégio objetivo'
 )
