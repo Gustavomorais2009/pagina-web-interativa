@@ -1,6 +1,6 @@
 criaCartao(
     'Felicidades',
-    'O que voê mais gosta de fazer?',
+    'O que você mais gosta de fazer?',
     ' jogar futsal!!!'
 )
 
